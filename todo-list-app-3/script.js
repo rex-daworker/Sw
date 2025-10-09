@@ -7,7 +7,7 @@
     4) Potential concurrency issue if save and retrieve are called simultaneously.
 */
 
-// Arrays for tasks
+// Arrays for taskss
 let taskList = [];
 let importantTaskList = [];
 historyList = []; // Accidental global variable
